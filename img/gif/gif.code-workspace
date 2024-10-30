@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../icons"
+		},
+		{
+			"path": "../impinfo"
+		},
+		{
+			"path": "../myths"
+		},
+		{
+			"path": "../quicklinks"
+		}
+	]
+}
